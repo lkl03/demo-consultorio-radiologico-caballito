@@ -1,2 +1,7 @@
-# demo-consultorio-radiologico-caballito
-Demo web para Consultorio Radiológico Caballito — diseñada por eterlab.
+# Consultorio Radiológico Caballito
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
